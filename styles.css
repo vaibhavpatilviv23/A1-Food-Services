@@ -7,13 +7,13 @@ a:link,a:hover, a:active {
     text-decoration: underline;
 }
 
-
-.float-button {
-    position: fixed;
+/*
+.wa-button {
+    position:absolute;
     right: 77px;
     top: 700px;
 }
-
+*/
 .foodimage {
     height: 242px;
     width: 330px;
